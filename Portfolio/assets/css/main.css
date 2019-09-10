@@ -634,6 +634,10 @@ input, select, textarea {
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
+	.icon .fa-bicycle{
+		font-size: 3rem;
+		padding-top: 20px;
+	}
 
 /* Image */
 
